@@ -1,27 +1,8 @@
-- 👋 Hi, I’m @Waku187
-# 👾 Welcome to My Code Wonderland! 👾
+#### About Me
+Skilled software developer with expertise in Java, JavaScript, Python, and TypeScript. Proficient in frameworks such as Spring, Next.js, and Flutter. Experienced with databases including MySQL, Vercel, and Firebase.
 
-## 🚀 About Me
+#### Let's Collaborate
+Open to collaborative projects in software development. Let's create something extraordinary together.
 
-Hey there, I'm Wakung'uma Nyambe III, a passionate code wrangler with a knack for turning caffeine into beautiful lines of code. By day, I'm a coding superhero, and by night, I'm on a quest to conquer the digital realms.
-
-## 💻 Tech Sorcery
-
-🌈 **Languages**: Java, JavaScript, Python   
-⚙️ **Frameworks**: React, Node.js, Flutter  
-🚀 **Currently Exploring**: The galaxy of serverless architectures  
-
-
-## 🌌 Let's Collaborate
-
-🚀 Excited about creating digital wonders? Join me on this intergalactic coding journey. Whether you're a fellow explorer or an alien developer, let's build something extraordinary together!
-
-## 🌠 Connect with the Code Sorcerer
-
-🚀 wakungumanyambe18@gmail.com
-
-
-<!---
-Waku187/Waku187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Connect with Me
+Reach out for professional connections and opportunities.
